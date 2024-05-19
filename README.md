@@ -2,7 +2,7 @@
 
 Git Command Checker is a web application built with React and TypeScript that allows users to enter any Git command and checks if it is correct. If the command is incorrect, the application suggests the correct command.
 
-![Git Command Checker](https://streamable.com/jrnhn8)
+
 <a href="https://ibb.co/jrN7vFp"><img src="https://i.ibb.co/87CFDVh/photo-2024-05-18-15-37-06.jpg" alt="Git Command Checker Interface" border="0"></a>
 
 ## Features
@@ -15,7 +15,7 @@ Git Command Checker is a web application built with React and TypeScript that al
 ## Demo
 
 <video width="600" height="400" controls>
-  <source src="git.mp4" type="video/mp4">
+  <source src="./git.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ## Installation
