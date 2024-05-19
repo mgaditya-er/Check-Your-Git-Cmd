@@ -12,6 +12,11 @@ Git Command Checker is a web application built with React and TypeScript that al
 - **Command Suggestions**: If an incorrect command is entered, the application suggests the closest valid command using the Jaro-Winkler distance algorithm.
 - **Support for Abbreviations**: The application recognizes common Git command abbreviations (e.g., `git st` for `git status`).
 
+## About Jaro-Winkler Distance Algorithm
+
+The Jaro-Winkler distance algorithm is a string similarity metric that measures the edit distance between two strings. It calculates the similarity between two strings by comparing their characters and positions. This algorithm is particularly useful for detecting typographical errors or approximate matches between strings.
+
+
 ## Demo
 
 <video width="600" height="400" controls>
