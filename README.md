@@ -14,8 +14,10 @@ Git Command Checker is a web application built with React and TypeScript that al
 
 ## Demo
 
-Watch the demo video [here](https://streamable.com/jrnhn8).
-
+<video width="600" height="400" controls>
+  <source src="git.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ## Installation
 
 Follow these steps to set up and run the project locally:
